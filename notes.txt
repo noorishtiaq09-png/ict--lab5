@@ -1,1 +1,2 @@
 Git is a advanced versioncontrol system helps developers in code and projects efficiently.
+Feature branch is used for new features without affecting main code
